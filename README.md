@@ -73,3 +73,9 @@ python -m unittest discover -s tests
 - Add more intents and phrase variations
 - Move responses to a JSON knowledge base
 - Expand tests and deploy the app publicly
+
+## Persistent Conversation History
+
+The application uses SQLite to store conversations and messages locally. Users can start new conversations, revisit previous chats, and clear the current conversation. Conversation data persists across application restarts.
+
+**Technologies:** Python, Streamlit, SQLite, Regular Expressions.
