@@ -13,8 +13,8 @@ HELP_TEXT = """Here are some things you can ask me:
 • What direction does the sun rise?
 • How many months are there in a year?
 • What day is it today?
-• What are some good movie genres?
-• Which music is good for studying?
+• What are some best genres in movies?
+• Which music is best for relaxation?
 • 25 + 37 (you can also use -, *, or /)
 Type 'bye' to end a terminal conversation."""
 
